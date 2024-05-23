@@ -2,8 +2,8 @@
 > 基于pptp的vpn服务搭建部署脚本
 
 ## 下载
-* **ubuntu环境**:`$ wget https://raw.githubusercontent.com/tomoncle/pptp-vpn-server/master/pptp-vpn-server-ubuntu14.04.sh`
-* **centos环境**:`$ wget https://raw.githubusercontent.com/tomoncle/pptp-vpn-server/master/pptp-vpn-server-centos7.sh`
+* **ubuntu环境**:`$ wget https://raw.githubusercontent.com/49885458/centos/master/pptp-vpn-server-ubuntu14.04.sh`
+* **centos环境**:`$ wget https://raw.githubusercontent.com/49885458/centos/master/pptp-vpn-server-centos7.sh`
 
 
 
